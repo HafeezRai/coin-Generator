@@ -10,7 +10,7 @@ Do not use in production :)
 ## Building
 Go 1.12+ is required.
 
-go get -tags nocgo github.com/42wim/cost
+go get -tags nocgo github.com/HafeezRai/coin-Generator
 ```
 
 You should now have cost binary in the ~/go/bin directory:
